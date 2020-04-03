@@ -6,7 +6,7 @@ Le calcul est fragmenté en Work Unit et communiqué à l'ordinateur via un clie
 
 Le client utilise soit le CPU soit le GPU soit les deux. Pour faire simple les processeurs de carte graphique sont des "brutes" en comparaison des CPU, ce qui leur permet d'effectuer des calculs de repliement de protéines plus rapidement que les CPU mais au prix d'une montée en température importante. 
 
-L'utilisateur est invité à rentrer un pseudo lors de la première connexion (ce qui permet d'organiser des équipes avec un système de points par exemple). Aucune données "personnelles" n'est traitée par l'université de Stanford, seules les données matérielles du PC client sont transmises à la première connexion pour que le serveur de Stanford distribue les WU en fonction des capacités des machines connectées. 
+L'utilisateur est invité à rentrer un pseudo lors de la première connexion (ce qui permet d'organiser des équipes avec un système de points par exemple)mais on peut aussi choisir de rester annonyme. Aucune données "personnelles" n'est traitée par l'université de Stanford, seules les données matérielles du PC client sont transmises à la première connexion pour que le serveur de Stanford distribue les WU en fonction des capacités des machines connectées. 
 
 ## Covid-19 
 
