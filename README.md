@@ -1,6 +1,6 @@
 ## Le projet Folding@home
 
-Folding@home est un projet de calcul distribué qui fonctionne avec la puissance de calcul non utilisée des ordinateurs, des téléphones et historiquement des PlayStation 3 de volontaires. Ce projet, datant de 2000, est piloté par la Stanford School of Medecine. 
+Folding@home est un projet de calcul distribué qui fonctionne avec la puissance de calcul non utilisée des ordinateurs, des téléphones et historiquement des PlayStation 3 de volontaires. Ce projet, datant de 2000, est piloté par la Stanford School of Medecine. Stanford pilote ainsi un supercalulateur virtuel permettant de faire de la recherche biomédicale (Repliement de protéines, identification de molécule, simulation de récepteurs etc.)   
 
 Le calcul est fragmenté en Work Unit et communiqué à l'ordinateur via un client multiplateforme . Le client va effectuer les opérations de calcul en arrière plan selon les paramètres de priorité (par exemple uniquement lorsque le PC est inactif) définit par l'utilisateur. 
 
@@ -14,7 +14,7 @@ L'utilisateur est invité à rentrer un pseudo lors de la première connexion (c
 
 Stanford a réorienté le projet folding@home courant mars pour aider les projets liés au Covid19. 
 
-dès le 19 mars stanford battait un record de puissance de calcul repartie sur 400.000 machines en validant 470 pétaflops soit plus de deux fois la puissance de Summit, le supercalculateur d'IBM. 
+Dès le 19 mars Stanford battait un record de puissance de calcul repartie sur 400.000 machines en validant 470 pétaflops soit plus de deux fois la puissance de Summit, le supercalculateur d'IBM. 
 
 
 
